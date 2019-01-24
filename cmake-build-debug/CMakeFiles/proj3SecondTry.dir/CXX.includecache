@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/CLionProjects/proj3SecondTry/LinkedSortedArray.h
+SortedArray.h
+C:/Users/PC/CLionProjects/proj3SecondTry/SortedArray.h
+
+C:/Users/PC/CLionProjects/proj3SecondTry/SortedArray.h
+iostream
+-
+list
+-
+
+C:/Users/PC/CLionProjects/proj3SecondTry/main.cpp
+LinkedSortedArray.h
+C:/Users/PC/CLionProjects/proj3SecondTry/LinkedSortedArray.h
+iostream
+-
+list
+-
+

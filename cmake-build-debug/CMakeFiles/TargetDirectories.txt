@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/proj3SecondTry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/proj3SecondTry/cmake-build-debug/CMakeFiles/proj3SecondTry.dir
+C:/Users/PC/CLionProjects/proj3SecondTry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
